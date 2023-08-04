@@ -29,5 +29,6 @@ public class ArrayListJava{
             }
             System.out.println(list);
         }
+        Sytem.out.println("Changes from the git");
     }
 }
