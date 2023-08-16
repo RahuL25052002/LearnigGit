@@ -39,7 +39,11 @@ public class findPivot {
         }
         return -1;
     }
-    static int findPivotElement(int[] arr) {
+    /**
+     * @param arr
+     * @return
+     */
+    public static int findPivotElement(int[] arr) {
         int start = 0;
         int end = arr.length - 1;
         while (start <= end) {
