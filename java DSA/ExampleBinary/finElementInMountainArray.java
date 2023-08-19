@@ -4,8 +4,11 @@ public class finElementInMountainArray {
     public static void main(String[] args) {
         int []arr={1,3,5,7,9,8,6,4,2,0};
         int target=7;
-        int ans=search(arr,target);
+        int m=2;
+        int ans=search(arr,target);//RETURN THE INDEX OF THE TARGET ELEMENT 
         System.out.println(ans);
+        int ans1=splitLargestArraySum.splitLargestArray(arr, m);
+        System.out.println(ans1);
 
         
     }
