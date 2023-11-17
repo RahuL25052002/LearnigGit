@@ -5,7 +5,7 @@ import java.util.Arrays;
 public class firstAndLast {
     public static void main(String[] args) {
         int arr[]={1,2,2,2,2,3,3,3,4,4,4,5,6,7,7};
-        int target=5;
+        int target=8;
         int []ans=searchRange(arr, target);
         System.out.println(Arrays.toString(ans));
     }
@@ -14,7 +14,7 @@ public class firstAndLast {
         boolean findStartIndex=true;
         int start=search(arr,target,findStartIndex);
         findStartIndex=false;
-        int end=search(arr, target,findStartIndex);
+        int end=search(arr,target,findStartIndex);
         ans[0]=start;
         ans[1]=end;
         return ans;

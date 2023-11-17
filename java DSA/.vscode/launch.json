@@ -6,6 +6,97 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MaxSubstring",
+            "request": "launch",
+            "mainClass": "StringProblem.MaxSubstring",
+            "projectName": "java DSA_69b92205"
+        },
+        {
+            "type": "java",
+            "name": "stock",
+            "request": "launch",
+            "mainClass": "ArraysDSA.stock",
+            "projectName": "java DSA_69b92205"
+        },
+        {
+            "type": "java",
+            "name": "NQueens",
+            "request": "launch",
+            "mainClass": "backTracking.NQueens",
+            "projectName": "java DSA_69b92205"
+        },
+        {
+            "type": "java",
+            "name": "first",
+            "request": "launch",
+            "mainClass": "LinkedListInJava.first",
+            "projectName": "java DSA_69b92205"
+        },
+        {
+            "type": "java",
+            "name": "sum",
+            "request": "launch",
+            "mainClass": "backTracking.sum",
+            "projectName": "java DSA_69b92205"
+        },
+        {
+            "type": "java",
+            "name": "countMaze",
+            "request": "launch",
+            "mainClass": "backTracking.countMaze",
+            "projectName": "java DSA_69b92205"
+        },
+        {
+            "type": "java",
+            "name": "dice",
+            "request": "launch",
+            "mainClass": "StringRecur.dice",
+            "projectName": "java DSA_69b92205"
+        },
+        {
+            "type": "java",
+            "name": "phonePad",
+            "request": "launch",
+            "mainClass": "StringRecur.phonePad",
+            "projectName": "java DSA_69b92205"
+        },
+        {
+            "type": "java",
+            "name": "permutationsString",
+            "request": "launch",
+            "mainClass": "StringRecur.permutationsString",
+            "projectName": "java DSA_69b92205"
+        },
+        {
+            "type": "java",
+            "name": "subSq",
+            "request": "launch",
+            "mainClass": "StringRecur.subSq",
+            "projectName": "java DSA_69b92205"
+        },
+        {
+            "type": "java",
+            "name": "subSequence",
+            "request": "launch",
+            "mainClass": "StringRecur.subSequence",
+            "projectName": "java DSA_69b92205"
+        },
+        {
+            "type": "java",
+            "name": "RemoveaCharacter",
+            "request": "launch",
+            "mainClass": "StringRecur.RemoveaCharacter",
+            "projectName": "java DSA_69b92205"
+        },
+        {
+            "type": "java",
+            "name": "QuickSort",
+            "request": "launch",
+            "mainClass": "SortingAlgorithm.QuickSort",
+            "projectName": "java DSA_69b92205"
+        },
+        {
+            "type": "java",
             "name": "MergeInplaceSorting",
             "request": "launch",
             "mainClass": "SortingAlgorithm.MergeInplaceSorting",
