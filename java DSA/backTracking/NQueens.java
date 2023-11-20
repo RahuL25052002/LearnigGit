@@ -33,6 +33,7 @@ public class NQueens {
                 board[row][col]=false;
             }
         }
+        // display(board);
         return count;
     }
     // static void queens(boolean[][] board,int row){

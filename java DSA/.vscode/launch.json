@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "practiseKnapsack",
+            "request": "launch",
+            "mainClass": "lp3code.practiseKnapsack",
+            "projectName": "java DSA_69b92205"
+        },
+        {
+            "type": "java",
+            "name": "knapsack",
+            "request": "launch",
+            "mainClass": "lp3code.knapsack",
+            "projectName": "java DSA_69b92205"
+        },
+        {
+            "type": "java",
+            "name": "practise",
+            "request": "launch",
+            "mainClass": "backTracking.practise",
+            "projectName": "java DSA_69b92205"
+        },
+        {
+            "type": "java",
             "name": "MaxSubstring",
             "request": "launch",
             "mainClass": "StringProblem.MaxSubstring",
