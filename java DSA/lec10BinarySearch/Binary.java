@@ -3,7 +3,7 @@ package lec10BinarySearch;
 public class Binary {
     public static void main(String[] args) {
         int []arr={-1,0,2,3,5,12,45,67,69,900};
-        int target=-1;
+        int target=55;
         int ans=BinarySearch(arr, target);
         System.out.println(ans);
         
