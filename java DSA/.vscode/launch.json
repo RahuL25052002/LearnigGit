@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "stringExample",
+      "request": "launch",
+      "mainClass": "StringBuffer.stringExample",
+      "projectName": "java DSA_69b92205"
+    },
+    {
+      "type": "java",
       "name": "bubble",
       "request": "launch",
       "mainClass": "lp5.bubble",
